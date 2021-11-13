@@ -1,0 +1,19 @@
+*{
+    margin: 100;
+    padding: 100;
+    font-family: Century Gothic;
+}
+header{
+    background-image: url(https://lh3.googleusercontent.com/proxy/yhb1_cJK7192Qh1R-SdPy0_btU_jcL-NO2t2MURIOik2boRsBsENbI0kox9jAhlvc7Q2Wda68J5Q-I6MVRtUD_i0uQgQEO-sFHip3GZQ370ZCtpLt7sSKNxWzADde-OvObgP3O9YOd-8Zv5j-H1LSLLZVFsJHtLulkicoBlW);
+    height: 100vh;
+    background-size: cover;
+    background-position: centre;
+}
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
